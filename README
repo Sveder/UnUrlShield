@@ -3,7 +3,7 @@ http://creativecommons.org/licenses/by/3.0/
 
 There was once a site called urlshield whose premise was to protect a link with a captcha.
 That wasn't such a bad idea, except that their site was broken, the user experience was horrible and most
-importantly - their captcha sucked. To help automate a stie that used it I wrote something that
+importantly - their captcha sucked. To help automate a site that used it I wrote something that
 makes it easy for OCR software to have 100% success, by separating the letters. 
 
 
