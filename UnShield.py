@@ -3,10 +3,9 @@ import sys
 import copy
 
 from PIL import Image
-from pygame.colordict import THECOLORS as COLORS
 
 #Minimum number of pixels per letter:
-MIN_PIXEL_PER_LETTER_COUNT = 250
+MIN_PIXEL_PER_LETTER_COUNT = 200
 
 #Store locations for each color type:
 class PixelLoc():
